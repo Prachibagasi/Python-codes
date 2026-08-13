@@ -1,3 +1,4 @@
+# reverse a string
 # using slice
 def reverse_string(s):
     reversed_string = s[::-1]
